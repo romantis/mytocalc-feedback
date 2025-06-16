@@ -3,7 +3,7 @@
 Welcome to the **official feedback repository** for **[MytoCalc](https://mytocalc.com)** — a free customs & VAT calculator for parcels imported to Ukraine. The application’s source code is private, but we use GitHub Issues to collect bug reports, feature ideas, and localisation tweaks from the community.
 
 > **Quick links**
-> • [Submit a bug 🪲](https://github.com/mytocalc-feedback/issues/new?template=bug_report.md)   • [Request a feature 💡](https://github.com/mytocalc-feedback/issues/new?template=feature_request.md)   • [Report a translation issue 🌐](https://github.com/mytocalc-feedback/issues/new?template=localisation_issue.md)
+> • [Submit a bug 🪲](https://github.com/romantis/mytocalc-feedback/issues/new?template=bug_report.md)   • [Request a feature 💡](https://github.com/romantis/mytocalc-feedback/issues/new?template=feature_request.md)   • [Report a translation issue 🌐](https://github.com/romantis/mytocalc-feedback/issues/new?template=🌐-localization---translation-issue.md)
 
 ---
 
